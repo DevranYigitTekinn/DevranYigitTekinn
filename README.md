@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devran Yiğit</h1>
 <h3 align="center">Web & Game Developer</h3>
 
-- 🔭 I’m currently working on **🎭 Behind The Screen — a short visual novel**
+- 🔭 I’m currently working on **PVND Anime**
 
-- 🌱 I’m currently learning **Ren’Py**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **Email: devranyigitekin@gmail.com**
-
-- ⚡ Fun fact **I started with web before diving into games**
 
 <h3 align="left">Connect with me: devranyigitekin@gmail.com</h3>
 <p align="left">
